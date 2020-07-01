@@ -1,7 +1,7 @@
 <template>
     <div style="width: 60%;margin: 50px auto">
         <div style="margin-top: 20px">
-            <el-button @click="toggleSelection()">取消选择</el-button>
+            <el-button @click="toggleSelection()">取消选择.</el-button>
         </div>
         <el-table
                 ref="multipleTable"
